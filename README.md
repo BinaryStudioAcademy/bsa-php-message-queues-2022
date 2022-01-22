@@ -1,6 +1,6 @@
-# Binary Studio Academy 2020
+# Binary Studio Academy 2022
 
-## Домашнее задание #8
+## Message Queues in Laravel
 
 ### Требования
 
